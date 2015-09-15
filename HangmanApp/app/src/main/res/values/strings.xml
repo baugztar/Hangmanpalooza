@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hangmanpalooza</string>
+
+    <string name="hello_world">Welcome to hangman!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="mainColorBlue">#3F51B5</color>
+    <color name="secColorBlueLight">#c5CAe9</color>
+    <color name="secColorBlueDark">#1A237E</color>
+    <color name="accentColorRed">#FF8A80</color>
+</resources>
